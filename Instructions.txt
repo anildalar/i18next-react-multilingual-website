@@ -1,0 +1,15 @@
+Multi Lingual Website ReactJs
+
+Your Project is on
+1. Functional COmponent
+
+A.js
+	->	
+		B.js
+			-> 
+				C.js	
+
+
+
+2. Class Compoent
+
