@@ -13,3 +13,21 @@ A.js
 
 2. Class Compoent
 
+AA.js
+	->
+		BB.js
+			->	
+				CC.js
+
+
+locale/en/translation.json
+
+hello/dilip/ok.json
+
+Local Storage
+HTML 5 Web Storage API
+
+
+Syntax
+localStorage.setItem(keyname, value)
+
